@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.contact_page),
-            label: 'Contact',
+            label: 'Contacts',
           ),
         ],
         currentIndex: 0,
